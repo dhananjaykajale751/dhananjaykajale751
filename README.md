@@ -10,7 +10,7 @@ My projects are:-
 5. Home Page of Disney+Hotstar
 6. Number guessing game in Java
 7. Dice Game
-8. blog for Astronomy Club
+8. Blog for Astronomy Club
 
 Besides coding, I am interested keenly interested in Astronomy. I am the Senior Coordinator of the Astronomy Club at the Government College of Engineering Nagpur.
 I love to travel, sing and listen to songs, drive a car, and explore new places.
