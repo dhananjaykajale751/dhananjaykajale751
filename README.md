@@ -11,7 +11,9 @@ My projects are:-
 6. Number guessing game in Java
 7. Dice Game
 8. Blog for Astronomy Club
+9. Spotify Clone
 
 Besides coding, I am interested keenly interested in Astronomy. I am the Senior Coordinator of the Astronomy Club at the Government College of Engineering Nagpur.
 I love to travel, sing and listen to songs, drive a car, and explore new places.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhananjaykajale751)](https://github.com/anuraghazra/github-readme-stats)
