@@ -4,7 +4,7 @@
 I am, Dhananjay Chandrashekhar Kajale, a final year B.Tech student in Computer Science Engineering at the Government College of Engineering Nagpur.
 Skills:- HTML, CSS, JavaScript, Java, C++, DSA, and Basic MySQL.
 My projects are:-
-1. VEriNews(Fake News Detection)
+1. VeriNews(Fake News Detection)
 2. TinDog- A web page (Tinder of Dogs)
 3. Drumkit
 4. Weather Api
