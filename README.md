@@ -10,17 +10,20 @@ I am, Dhananjay Chandrashekhar Kajale, a final year B.Tech student in Computer S
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dhananjaykajale751&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaykajale751&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 My projects are:-
-1. VeriNews(Fake News Detection)
-2. TinDog- A web page (Tinder of Dogs)
-3. Drumkit
-4. Weather Api
-5. Home page of Amazon Prime Music
-6. Home Page of Disney+Hotstar
-7. Number guessing game in Java
-8. Dice Game
-9. Blog Page for Astronomy Club
-10. Spotify Clone
+
+1. Proctify(SIH 2023 Grand Finale)
+2. VeriNews(Fake News Detection) 
+3. TinDog- A web page (Tinder of Dogs)
+4. Drumkit
+5. Weather Api
+6. Home page of Amazon Prime Music
+7. Home Page of Disney+Hotstar
+8. Number guessing game in Java
+9. Dice Game
+10. Blog Page for Astronomy Club
+11. Spotify Clone
 
 Besides coding, I am interested keenly interested in Astronomy. I am the Senior Coordinator of the Astronomy Club at the Government College of Engineering Nagpur.
 I love to travel, sing and listen to songs, drive a car, and explore new places.
