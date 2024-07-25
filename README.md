@@ -31,7 +31,7 @@ My projects are:-
 Besides coding, I am keenly interested in Astronomy. I am the Senior Coordinator of the Astronomy Club at the Government College of Engineering Nagpur.
 I love to travel, sing and listen to songs, drive a car, and explore new places.
 <div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhananjaykajale751)](https://github.com/anuraghazra/github-readme-stats)
   <br></br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaykajale751" alt="Top Langs">
