@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhananjaykajale751)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhananjaykajale751&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 ### Hi there 👋
 
 I am, Dhananjay Chandrashekhar Kajale, a final year B.Tech student in Computer Science Engineering at the Government College of Engineering Nagpur.
