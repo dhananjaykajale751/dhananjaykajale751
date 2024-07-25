@@ -39,4 +39,6 @@ I love to travel, sing and listen to songs, drive a car, and explore new places.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaykajale751" alt="Top Langs">
   </a>
 </div>
-[![](https://visitcount.itsvg.in/api?id=dhananjaykajale751&label=Profile%20Views&color=12&icon=3&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=dhananjaykajale751&label=Profile%20Views&color=12&icon=3&pretty=false" />
+</a>
