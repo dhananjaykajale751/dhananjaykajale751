@@ -1,4 +1,4 @@
-https://github-profile-trophy.vercel.app/?dhananjaykajale751=ryo-ma&theme=flat
+https://github-profile-trophy.vercel.app/dhananjaykajale751=ryo-ma&theme=flat
 ### Hi there 👋
 
 I am, Dhananjay Chandrashekhar Kajale, a final year B.Tech student in Computer Science Engineering at the Government College of Engineering Nagpur.
