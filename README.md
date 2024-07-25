@@ -32,7 +32,7 @@ Besides coding, I am keenly interested in Astronomy. I am the Senior Coordinator
 I love to travel, sing and listen to songs, drive a car, and explore new places.
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dhananjaykajale751" alt="Vaibhav's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=dhananjaykajale751" alt="Dhananjay's GitHub stats">
   </a>
   <br></br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
