@@ -5,6 +5,7 @@ I am, Dhananjay Chandrashekhar Kajale, a final year B.Tech student in Computer S
 ## 🌐 Socials:
   <a href="https://www.linkedin.com/in/dhananjay-chandrashekhar-kajale-252904223/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2023-008000" alt="Smart India Hackathon">
   </a>
 
 # 💻 Tech Stack:
