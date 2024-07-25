@@ -28,12 +28,11 @@ My projects are:-
 10. Blog Page for Astronomy Club
 11. Spotify Clone
 
-Besides coding, I am interested keenly interested in Astronomy. I am the Senior Coordinator of the Astronomy Club at the Government College of Engineering Nagpur.
+Besides coding, I am keenly interested in Astronomy. I am the Senior Coordinator of the Astronomy Club at the Government College of Engineering Nagpur.
 I love to travel, sing and listen to songs, drive a car, and explore new places.
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dhananjaykajale751" alt="Dhananjay's GitHub stats">
-  </a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <br></br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaykajale751" alt="Top Langs">
   </a>
